@@ -1,0 +1,2 @@
+# don't share configuration settings
+config.py*
